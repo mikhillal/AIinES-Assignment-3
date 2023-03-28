@@ -1,4 +1,4 @@
-Here we have implemeneted REStful API using and performed CRUD(Create, Read, Update and Delete) operations.
+Here we have implemeneted RESTful API using and performed CRUD(Create, Read, Update and Delete) operations.
 
 Created a student database using MYSQL.
 
